@@ -8,5 +8,15 @@ https://www.youtube.com/watch?v=TsNGkp1__C8
 https://stream-02.ix7.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql5653mJ5lSq6DLkcHQU2eBbZCc)/dm/3/x7ooijz/s/live-3.m3u8
 #EXTINF:-1 tvg-id="Nessma.tn" tvg-name="|.AR.| NESSMA TV" tvg-logo="http://one-iptv.com/logoX/chainetubnisie/nessma.png" group-title="ARABIC TUNISIE",|.AR.| NESSMA TV
 https://stream-07.dc3.dailymotion.com/sec(URBhp0zYv0oL3J-5svQBhgg47UmF15LLLIR8vHyhesA)/dm/3/x7lmd4f/s/live-3.m3u8
-#EXTINF:-1 tvg-id="Watania2.tn" tvg-name="|.AR.| Sbou3i" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREnYAWbkGgOrjs4qV_cnxCbFqoc_KBs4IKIM5w8qa5L9IijjQYTuFkzrj3mA" group-title="ARABIC TUNISIE",|.AR.| sbou3i
-https://www.youtube.com/watch?v=zBhA9XdSZus
+#EXTINF:-1,spacetoon.
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1,disney channel.
+https://s1.hopslan.com/disney/tracks-v1a1/mono.m3u8?token=a396457bbb8304609ead309006638b463c4cb8ef-676055975f1574d495d930789a0bae58-1613927538-1613916738
+#EXTINF:-1,Pro 7 HD.
+https://s1.hopslan.com/pro7/tracks-v1a1/mono.m3u8?token=7ffde32e35c04bba89c71f7a26ae6c1f996a49d3-b4b8e549ada1a80ff5d623d6aaa60900-1613916842-1613906042
+#EXTINF:-1,Pro max HD.
+https://s3.hopslan.com/pro7maxx/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZDF HD.
+https://s1.hopslan.com/zdf/index.m3u8?token=3cc788d6fe795b5cf8ef988f937cfba2c216ed29-158528c7adb0af5e82eb7c6126519063-1613927885-1613917085
+#EXTINF:-1,RTL HD.
+https://s1.hopslan.com/rtl/index.m3u8?token=a38efe59454518b1df11dce8bf99a2f14717ce6a-11d77dbd3f9fa72fa572dd12b48d0798-1613928060-1613917260
