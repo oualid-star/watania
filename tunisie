@@ -8,6 +8,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613945757/ei/P
 https://stream-02.ix7.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql5653mJ5lSq6DLkcHQU2eBbZCc)/dm/3/x7ooijz/s/livhttps://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_3.m3u8e-3.m3u8
 #EXTINF:-1 tvg-id="Nessma.tn" tvg-name="|.AR.| NESSMA TV" tvg-logo="http://one-iptv.com/logoX/chainetubnisie/nessma.png" group-title="ARABIC TUNISIE",|.AR.| NESSMA TV.
 https://stream-07.dc3.dailymotion.com/sec(URBhp0zYv0oL3J-5svQBhgg47UmF15LLLIR8vHyhesA)/dm/3/x7lmd4f/s/live-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="---??| Arabic |??---" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKADBh8dSove6OS2bIEFzNV79rED8VbChNpsn7NS9FcTT3D5kOV6ji_jV0" group-title="ARABIC TUNISIE",---??| ARABIC |??---
 #EXTINF:-1,mbc 1 HD.
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_4.m3u8
 #EXTINF:-1,mbc 1 SD.
@@ -41,4 +42,8 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|.AR.| CARTOON NETWORK ARABIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvfQ4xg4olgUP4-LKwgrpvu92NjryQFqcItcMMj22TqVOdwaeFQAE0ND2&s" group-title="ARABIC ATFAL",|.AR.| CARTOON NETWORK ARABIC.
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
-
+#EXTINF:-1 tvg-ID="" tvg-name="***** Arabic Sport *****" tvg-logo="" group-title="ARABIC",***** Arabic Sport *****
+#EXTINF:-1 tvg-ID="beIN Sports 1 ARB" tvg-name="|AR| BEIN SPORTS 1 FHD" tvg-logo="http://instanttv.info:8080/logos/beinsports1.default.png" group-title="ARABIC - BEIN SPORTS",|AR| BEIN SPORTS 1 FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-ID="beIN Sports 1 ARB" tvg-name="|AR| BEIN SPORTS 10 FHD" tvg-logo="http://instanttv.info:8080/logos/beinsports10.default.png" group-title="ARABIC - BEIN SPORTS",|AR| BEIN SPORTS 10 FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.ts?checkedby:iptvcat.com
