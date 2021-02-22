@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="---??| TUNISIE |??---" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKADBh8dSove6OS2bIEFzNV79rED8VbChNpsn7NS9FcTT3D5kOV6ji_jV0" group-title="ARABIC TUNISIE",---??| TUNISIE |??---
 #EXTINF:-1 tvg-id="Watania1.tn" tvg-name="|.AR.| WATANYA 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREnYAWbkGgOrjs4qV_cnxCbFqoc_KBs4IKIM5w8qa5L9IijjQYTuFkzrj3mA" group-title="ARABIC TUNISIE",|.AR.| WATANYA 1.
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613946102/ei/logyYKz6Gtb2gQe2vp7YDw/ip/2a04%3A4540%3A7205%3Ae200%3A18be%3Ade05%3A23e0%3A548/id/991ToDyRjeA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJ8letVJiFjM1XWCRG5pm1K5YWaB2sKvEw0-nUZUHTkcAiAYsO8IYHdjKiNfrEEmH2Hk05DL-l6aq5jh88eUDo_j0w%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614014517/ei/1ZMzYNTfJJLt1wLe24LoCw/ip/2a04%3A4540%3A7208%3Ae900%3A2dd2%3A43e3%3A5da5%3Aeac9/id/991ToDyRjeA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALoq3v5KstNmANSl2iKa4PZfda4MN167mH18O1j_6YUYAiBzXaP892dnM0gp1mjjmHUo_cYMFk8ZUNbmzGmWqQ0Hdw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="Watania2.tn" tvg-name="|.AR.| WATANYA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREnYAWbkGgOrjs4qV_cnxCbFqoc_KBs4IKIM5w8qa5L9IijjQYTuFkzrj3mA" group-title="ARABIC TUNISIE",|.AR.| WATANYA 2.
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613945757/ei/PYcyYPr5LoOJgQf5zqbADg/ip/2a04%3A4540%3A7205%3Ae200%3A18be%3Ade05%3A23e0%3A548/id/TsNGkp1__C8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgXT6JO98UoGSa9gK6xWrRBumw4-6g0c1obRRaMOTm9P4CIBP3poxjvSvmCW9vsyz3Cc3EhEf9bwGFjOF0bK7jG58Z/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614014600/ei/KJQzYNz1DsGZ1gLB_JGYDg/ip/2a04%3A4540%3A7208%3Ae900%3A2dd2%3A43e3%3A5da5%3Aeac9/id/TsNGkp1__C8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIeJS0Ot_ibaDUHCpWOj7MdUH25dO8zA8jYgOFX0HtUIAiEAzwq40PuHkCXZ8KzOsZi2t4kdkDnOW-NgOetW1nOpJ6M%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="Nessma.tn" tvg-name="|.AR.| NESSMA TV" tvg-logo="http://one-iptv.com/logoX/chainetubnisie/nessma.png" group-title="ARABIC TUNISIE",|.AR.| NESSMA TV.
 https://stream-07.dc3.dailymotion.com/sec(URBhp0zYv0oL3J-5svQBhgg47UmF15LLLIR8vHyhesA)/dm/3/x7lmd4f/s/live-3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="---??| Arabic |??---" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKADBh8dSove6OS2bIEFzNV79rED8VbChNpsn7NS9FcTT3D5kOV6ji_jV0" group-title="ARABIC TUNISIE",---??| ARABIC |??---
 #EXTINF:-1,mbc 1 HD.
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_4.m3u8
 #EXTINF:-1,mbc 1 SD.
@@ -23,7 +21,6 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_4.m3u8
 #EXTINF:-1,mbc 2 FHD.
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="---??| ARABIC ATFAL |??---" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKADBh8dSove6OS2bIEFzNV79rED8VbChNpsn7NS9FcTT3D5kOV6ji_jV0" group-title="ARABIC ATFAL",---??| ARABIC ATFAL |??---
 #EXTINF:-1,mbc 3 FHD.
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
 #EXTINF:-1,mbc 3 FHD.
