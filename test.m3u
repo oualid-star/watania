@@ -5,8 +5,10 @@ https://www.youtube.com/watch?v=991ToDyRjeA
 https://www.youtube.com/watch?v=TsNGkp1__C8
 #EXTINF:-1 tvg-id="Nessma.tn" tvg-name="|.AR.| NESSMA TV" tvg-logo="http://one-iptv.com/logoX/chainetubnisie/nessma.png" group-title="ARABIC TUNISIE",|.AR.| NESSMA TV.
 https://stream-07.dc3.dailymotion.com/sec(URBhp0zYv0oL3J-5svQBhgg47UmF15LLLIR8vHyhesA)/dm/3/x7lmd4f/s/live-3.m3u8
-#EXTINF:-1 tvg-id="attasia" tvg-name="|.AR.| attasia" tvg-logo="http://one-iptv.com/logoX/chainetubnisie/nessma.png" group-title="ARABIC TUNISIE",|.AR.| attasia TV.
-https://www.youtube.com/watch?v=-R_qMOTFhik
+#EXTINF:-1 tvg-id="attasia" tvg-name="|.AR.| attasia" tvg-logo="http://one-iptv.com/logoX/chainetubnisie/atassi3a.jpg" group-title="ARABIC TUNISIE",|.AR.| attasia TV.
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614049021/ei/nRo0YNKzH5q2gAfky63gBw/ip/2a04%3A4540%3A7205%3A6100%3Af4a5%3A3dae%3Ac857%3Ac9fc/id/-R_qMOTFhik.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKzipgyrkrRVnHhAl46MbZfPrnGVcwBNi-FaCo2S5rgxAiBdX0TrFAVo980fDwpE_RJclYkDp7GzJdq6Rmn_4vpBXg%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="Al Hiwar Ettounsi" tvg-name="|.AR.| Al Hiwar Ettounsi" tvg-logo="http://one-iptv.com/logoX/chainetubnisie/alhiwartounssi.png" group-title="ARABIC TUNISIE",|.AR.| Al Hiwar Ettounsi.
+https://stream-05.ix7.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql5653mJ5lSq6DLkcHQU2eBbZCc)/dm/3/x7ooijz/s/live-3.m3u8
 #EXTINF:-1,mbc 1 HD.
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_4.m3u8
 #EXTINF:-1,mbc 1 SD.
@@ -19,9 +21,9 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_3.m3u8
 #EXTINF:-1,mbc masr 2 HD.
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
-#EXTINF:-1,mbc 2 FHD.
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies"
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_4.m3u8
-#EXTINF:-1,mbc 2 FHD.
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies"
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
 #EXTINF:-1,mbc 3 FHD.
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
